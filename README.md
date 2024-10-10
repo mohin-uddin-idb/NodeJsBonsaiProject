@@ -36,13 +36,13 @@ This project is a simple E-commerce platform built using HTML, CSS, and JavaScri
 # Images View
 
 # Home view
- <img src="home-view/1.png" alt="full home view" style="width:100%; max-width:600px;">
+ <img src="screenshot/1.png" alt="full home view" style="width:100%; max-width:600px;">
   
 ## Product view
-<img src="product-view/3.png" alt="Product view" style="width:100%; max-width:600px;">
+<img src="screenshot/3.png" alt="Product view" style="width:100%; max-width:600px;">
 
 # Cart View
-<img src="cart-view/5.png" alt="add product on cart" style="width:100%; max-width:600px;">
+<img src="screenshot/5.png" alt="add product on cart" style="width:100%; max-width:600px;">
 
 
 
